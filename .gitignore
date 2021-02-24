@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /api/node_modules
+public/modal.html
 
 # testing
 /coverage
