@@ -6,6 +6,7 @@
 .pnp.js
 /api/node_modules
 public/modal.html
+rtmpserver/node_modules
 
 # testing
 /coverage
